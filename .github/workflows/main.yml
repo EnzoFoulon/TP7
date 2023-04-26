@@ -18,4 +18,4 @@ jobs:
     - name: PHP lint
       run: php -l src/
     - name: PHPUnit test
-      run: ../../tests/
+      run: ../../vendor/bin/phpunit
