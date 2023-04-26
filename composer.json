@@ -1,0 +1,15 @@
+{
+    "name": "mon-nom-de-vendor/mon-package",
+    "autoload": {
+        "psr-4": {
+            "MonNomDeVendor\\MonPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "EnzoFoulon",
+            "email": "enzo_foulon@icloud.com"
+        }
+    ],
+    "require": {}
+}
